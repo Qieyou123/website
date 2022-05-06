@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Alice Bighetti (吳恩達)
+title: Ao Li
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 数据科学家
+role: Ph.D. in Data Science and Analytics
 
 # Status emoji
 status:
@@ -14,7 +14,7 @@ status:
 
 # Organizations/Affiliations
 organizations:
-  - name: 腾讯
+  - name: Hong Kong University of Science and Technology (Guangzhou)
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
